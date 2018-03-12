@@ -4,7 +4,7 @@
   "description": "A Discord.js bot for the iRO guild WildOn",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "discord.js": "^11.3.2",
     "dotenv": "^5.0.1",
     "moment": "^2.21.0",
-    "moment-timezone": "^0.5.14"
+    "moment-timezone": "^0.5.14",
+    "nodemon": "^1.17.1"
   }
 }
