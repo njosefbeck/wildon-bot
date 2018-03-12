@@ -1,0 +1,27 @@
+{
+  "name": "wildon-bot",
+  "version": "1.0.0",
+  "description": "A Discord.js bot for the iRO guild WildOn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njosefbeck/wildon-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot"
+  ],
+  "author": "Nathan Beck <njosefbeck@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njosefbeck/wildon-bot/issues"
+  },
+  "homepage": "https://github.com/njosefbeck/wildon-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
