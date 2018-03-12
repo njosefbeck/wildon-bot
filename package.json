@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/njosefbeck/wildon-bot#readme",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
+    "moment": "^2.21.0",
+    "moment-timezone": "^0.5.14"
   }
 }
